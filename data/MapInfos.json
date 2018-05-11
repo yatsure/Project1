@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":838.8,"scrollY":556.1999999999999},
-{"id":2,"expanded":false,"name":"task","order":2,"parentId":0,"scrollX":838.8,"scrollY":556.1999999999999},
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":621.2727272727273,"scrollY":528.5454545454546},
+{"id":2,"expanded":false,"name":"task","order":2,"parentId":0,"scrollX":621.2727272727273,"scrollY":528.5454545454546},
 {"id":3,"expanded":false,"name":"taskAnswer","order":3,"parentId":0,"scrollX":621.2727272727273,"scrollY":528.5454545454546}
 ]
